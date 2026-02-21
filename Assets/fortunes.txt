@@ -248,3 +248,4 @@ Come back later... I am sleeping. (yes, cookies need their sleep too)
 If at first you do not succeed... try something harder.
 Your good listening skills will open many doors.
 Two people shorten a road.
+Credits to reggi/fortune-cookie for this amazing fortune library

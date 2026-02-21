@@ -1,0 +1,2 @@
+lolcat https://github.com/VRDog28/Lolcat/releases/download/Lolcat/lolcat.exe none
+chrome https://dl.google.com/chrome/install/latest/chrome_installer.exe installer
